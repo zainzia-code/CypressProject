@@ -1,19 +1,22 @@
-Cypress Test Automation
+# Cypress Test Automation
+
 This repository contains Cypress tests for [Project Name]. Cypress is a JavaScript end-to-end testing framework that is used to test web applications. This README provides instructions on setting up and running the Cypress tests.
 
-Prerequisites
+## Prerequisites
+
 Before running the Cypress tests, make sure you have the following installed:
 
-Node.js (version 14.x or later)
-npm (Node package manager)
-Cypress (The testing framework)
-Installation
-Clone the repository:
+- [Node.js](https://nodejs.org/) (version 14.x or later)
+- [npm](https://www.npmjs.com/) (Node package manager)
+- [Cypress](https://www.cypress.io/) (The testing framework)
 
-bash
-Copy code
-git clone <repository-url>
-cd <project-directory>
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone <repository-url>
+   cd <project-directory>
 Install dependencies:
 
 Run the following command to install all necessary dependencies for the project:
