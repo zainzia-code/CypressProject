@@ -1,0 +1,9 @@
+{
+  "email" : "honswertest+",
+  "password" : "Hon123!@#",
+  "account" : "@gmail.com",
+  "long_wait" : 8000,
+  "short_wait" : 3000,
+  "UserA" : "UserA",
+  "UserB" : "UserB"
+}
